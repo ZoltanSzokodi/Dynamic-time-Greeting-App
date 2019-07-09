@@ -23,7 +23,4 @@ function showGreeting() {
     msg.innerText = message;
     time.innerText = `it's ${hour}:${minutes}:${seconds}`;
 
-
-
-
 }
